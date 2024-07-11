@@ -13,27 +13,17 @@
 - coming soon
 
 ## Usage
+
 - Install all package
+
 ```
 pip install -r requirements.txt
 ```
 
 - Run the app
+
 ```
-python main.py
+py dashboard.py
 ```
 
 - Open: http://127.0.0.1:8050/
-
-## Notes
-- The data folder keeps old datasets which are prepared for training process. So if you want to refresh them, then run:
-
-```
-python fetch_data_service.py
-```
-
-- The models folder keep old lstm models, run the following script in order to refresh:
-
-```
-python training_service.py
-```
