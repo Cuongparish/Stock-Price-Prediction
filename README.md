@@ -1,5 +1,13 @@
 # Stock Price Prediction
 
+## Owner information
+
+- University: University of Science - VNUHCM
+
+| Student Name     | Student ID | Email                         |
+| ---------------- | ---------- | ----------------------------- |
+| Trịnh Quốc Cường | 20120447   | 20120447@student.hcmus.edu.vn |
+
 ## Introduction
 
 This project creates and uses LSTM model to predict the trend of several pairs of currencies' closing price. The data will be fetched directly using yfinance. Available currency options:
