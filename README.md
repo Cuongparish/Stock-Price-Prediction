@@ -10,7 +10,7 @@ This project creates and uses LSTM model to predict the trend of several pairs o
 
 ## App Demo
 
-- coming soon
+- [BTCN phần ứng dụng Machine Learning](https://youtu.be/T1XJmopUeko)
 
 ## Usage
 
